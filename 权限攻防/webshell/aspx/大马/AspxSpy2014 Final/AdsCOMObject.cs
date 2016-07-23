@@ -1,0 +1,157 @@
+using System;
+using System.Threading;
+using System.Net;
+using System.Collections;
+using System.Collections.Specialized;
+using System.Collections.Generic;
+using System.Security;
+using System.Security.AccessControl;
+using System.Security.Cryptography;
+using System.Security.Permissions;
+using System.Text;
+using System.IO;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Text.RegularExpressions;
+using System.DirectoryServices;
+class a {static void Main(){
+//ldap root
+DirectoryEntry de=new DirectoryEntry("LDAP://DC=root,DC=fuck");
+object o=null;
+
+//IADsLargeInteger
+o=de.Properties["creationTime"].Value;
+w(o);
+w(o is IADsLargeInteger);
+IADsLargeInteger li=o as IADsLargeInteger;
+w(makelong(li.HighPart,li.LowPart));
+w(DateTime.FromFileTimeUtc(makelong(li.HighPart,li.LowPart)));
+//IADsSecurityDescriptor
+o=de.Properties["nTSecurityDescriptor"].Value;
+w(o);
+w(o is IADsSecurityDescriptor);
+IADsSecurityDescriptor id=o as IADsSecurityDescriptor;
+w(id.Group);
+w(id.Owner);
+int ADS_SD_FORMAT_IID = 1;
+int ADS_SD_FORMAT_RAW = 2;
+int ADS_SD_FORMAT_HEXSTRING = 3;
+ADsSecurityUtilityClass suc=new ADsSecurityUtilityClass();
+w(suc.ConvertSecurityDescriptor(id,ADS_SD_FORMAT_IID,ADS_SD_FORMAT_RAW));
+ActiveDirectorySecurity adsec=new ActiveDirectorySecurity();
+adsec.SetSecurityDescriptorBinaryForm(suc.ConvertSecurityDescriptor(id,ADS_SD_FORMAT_IID,ADS_SD_FORMAT_RAW) as byte[]);
+w(adsec.GetSecurityDescriptorSddlForm(AccessControlSections.All));
+w(suc.ConvertSecurityDescriptor(id,ADS_SD_FORMAT_IID,ADS_SD_FORMAT_HEXSTRING));
+//IADsDNWithBinary
+o=de.Properties["wellKnownObjects"].Value;
+w(o);
+o=(de.Properties["wellKnownObjects"].Value as object[])[0];
+w(o);
+w(o is IADsDNWithBinary);
+IADsDNWithBinary dnb=o as IADsDNWithBinary;
+w(dnb.DNString);
+//IADsDNWithString
+//与IADsDNWithBinary代码类似，但未找到此类型的属性
+}
+static long makelong(int high,int low)
+{return (long)((((long)high) << 32 )+(uint)low);}
+static void w(object o){Console.WriteLine(o);}
+}
+//以下interop类型可以用以下命令从类型库导出为.net程序集：
+//tlbimp c:\windows\system32\activeds.tlb activedsimp.dll
+[ComImport, TypeLibType((short) 0x1040), Guid("7E99C0A2-F935-11D2-BA96-00C04FB6D0D1")]
+public interface IADsDNWithBinary
+{
+    [DispId(2)]
+    object BinaryValue { [return: MarshalAs(UnmanagedType.Struct)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)] get; [param: In, MarshalAs(UnmanagedType.Struct)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)] set; }
+    [DispId(3)]
+    string DNString { [return: MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)] get; [param: In, MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)] set; }
+}
+[ComImport, TypeLibType((short) 0x1040), Guid("370DF02E-F934-11D2-BA96-00C04FB6D0D1")]
+public interface IADsDNWithString
+{
+    [DispId(2)]
+    string StringValue { [return: MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)] get; [param: In, MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)] set; }
+    [DispId(3)]
+    string DNString { [return: MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)] get; [param: In, MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)] set; }
+}
+[ComImport, Guid("B8C787CA-9BDD-11D0-852C-00C04FD8D503"), TypeLibType((short) 0x1040)]
+public interface IADsSecurityDescriptor
+{
+    [DispId(2)]
+    int Revision { [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)] get; [param: In] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)] set; }
+    [DispId(3)]
+    int Control { [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)] get; [param: In] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)] set; }
+    [DispId(4)]
+    string Owner { [return: MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(4)] get; [param: In, MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(4)] set; }
+    [DispId(5)]
+    bool OwnerDefaulted { [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(5)] get; [param: In] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(5)] set; }
+    [DispId(6)]
+    string Group { [return: MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(6)] get; [param: In, MarshalAs(UnmanagedType.BStr)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(6)] set; }
+    [DispId(7)]
+    bool GroupDefaulted { [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(7)] get; [param: In] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(7)] set; }
+    [DispId(8)]
+    object DiscretionaryAcl { [return: MarshalAs(UnmanagedType.IDispatch)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(8)] get; [param: In, MarshalAs(UnmanagedType.IDispatch)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(8)] set; }
+    [DispId(9)]
+    bool DaclDefaulted { [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(9)] get; [param: In] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(9)] set; }
+    [DispId(10)]
+    object SystemAcl { [return: MarshalAs(UnmanagedType.IDispatch)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(10)] get; [param: In, MarshalAs(UnmanagedType.IDispatch)] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(10)] set; }
+    [DispId(11)]
+    bool SaclDefaulted { [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(11)] get; [param: In] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(11)] set; }
+    [return: MarshalAs(UnmanagedType.IDispatch)]
+    [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(12)]
+    object CopySecurityDescriptor();
+}
+[ComImport, TypeLibType((short) 0x1040), Guid("9068270B-0939-11D1-8BE1-00C04FD8D503")]
+public interface IADsLargeInteger
+{
+    [DispId(2)]
+    int HighPart { [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)] get; [param: In] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)] set; }
+    [DispId(3)]
+    int LowPart { [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)] get; [param: In] [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)] set; }
+}
+
+[ComImport, Guid("F270C64A-FFB8-4AE4-85FE-3A75E5347966"), TypeLibType((short) 2), ClassInterface((short) 0)]
+public class ADsSecurityUtilityClass : IADsSecurityUtility
+{
+    [return: MarshalAs(UnmanagedType.Struct)]
+    [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(4)]
+    public virtual extern object ConvertSecurityDescriptor([In, MarshalAs(UnmanagedType.Struct)] object varSD, [In] int lDataFormat, [In] int lOutFormat);
+    [return: MarshalAs(UnmanagedType.Struct)]
+    [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)]
+    public virtual extern object GetSecurityDescriptor([In, MarshalAs(UnmanagedType.Struct)] object varPath, [In] int lPathFormat, [In] int lFormat);
+    [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)]
+    public virtual extern void SetSecurityDescriptor([In, MarshalAs(UnmanagedType.Struct)] object varPath, [In] int lPathFormat, [In, MarshalAs(UnmanagedType.Struct)] object varData, [In] int lDataFormat);
+}
+[ComImport, Guid("A63251B2-5F21-474B-AB52-4A8EFAD10895"), TypeLibType((short) 0x1040)]
+public interface IADsSecurityUtility
+{
+    [return: MarshalAs(UnmanagedType.Struct)]
+    [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(2)]
+    object GetSecurityDescriptor([In, MarshalAs(UnmanagedType.Struct)] object varPath, [In] int lPathFormat, [In] int lFormat);
+    [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(3)]
+    void SetSecurityDescriptor([In, MarshalAs(UnmanagedType.Struct)] object varPath, [In] int lPathFormat, [In, MarshalAs(UnmanagedType.Struct)] object varData, [In] int lDataFormat);
+    [return: MarshalAs(UnmanagedType.Struct)]
+    [MethodImpl(MethodImplOptions.InternalCall, MethodCodeType=MethodCodeType.Runtime), DispId(4)]
+    object ConvertSecurityDescriptor([In, MarshalAs(UnmanagedType.Struct)] object varSD, [In] int lDataFormat, [In] int lOutFormat);
+}
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

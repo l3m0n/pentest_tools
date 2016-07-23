@@ -1,0 +1,27 @@
+using System;
+using System.Threading;
+using System.Net;
+using System.Collections;
+using System.Collections.Specialized;
+using System.Collections.Generic;
+using System.Security;
+using System.Security.Cryptography;
+using System.Security.Permissions;
+using System.Text;
+using System.IO;
+using System.IO.Compression;
+using System.Reflection;
+using System.Runtime.InteropServices;
+using System.Text.RegularExpressions;
+
+class a{static void Main(params string[] files){
+foreach(string file in files)
+{
+    byte[] b = new byte[2048];int i = 0;
+    FileStream fs=new FileStream(file,FileMode.Open,FileAccess.Read);
+    FileStream fs2=new FileStream(file+".Deflated",FileMode.Create,FileAccess.Write);
+    DeflateStream def=new DeflateStream(fs2,CompressionMode.Compress);
+    do{i = fs.Read(b, 0, 2048);def.Write(b, 0, i);} while (i != 0);
+    def.Close();fs2.Close();fs.Close();
+}
+}}
