@@ -1,0 +1,1 @@
+iepv.exe /stext 1.txt
