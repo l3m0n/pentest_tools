@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE scan [
+    <!ENTITY test-1 SYSTEM "\\10.0.0.1\C$\admins.txt">
+    <!ENTITY test-2 SYSTEM "\\10.0.0.2\C$\admins.txt">
+<request>
+    <scan>&test-1;</scan>
+    <scan>&test-2;</scan>
+</request>

